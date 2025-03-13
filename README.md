@@ -4,11 +4,11 @@
 
 This repository contains a script that implements multiple classification algorithms, including:
 
-✅ Random Forest Classifier
-✅ Cross-Validation
-✅ Stochastic Gradient Descent Classifier
-✅ Support Vector Machine (SVM) Classifier
-✅ SVM with Grid Search for Hyperparameter Tuning
+  ✅ Random Forest Classifier
+  ✅ Cross-Validation
+  ✅ Stochastic Gradient Descent Classifier
+  ✅ Support Vector Machine (SVM) Classifier
+  ✅ SVM with Grid Search for Hyperparameter Tuning
 
 The goal is to compare model performance and enhance predictive accuracy using cross-validation and hyperparameter tuning.
 

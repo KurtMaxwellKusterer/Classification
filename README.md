@@ -3,6 +3,7 @@
 
 
 This repository contains a script that implements multiple classification algorithms, including:
+
 ✅ Random Forest Classifier
 ✅ Cross-Validation
 ✅ Stochastic Gradient Descent Classifier

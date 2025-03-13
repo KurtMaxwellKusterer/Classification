@@ -1,4 +1,7 @@
-The Featured Project: Classification Script
+**The Featured Project: Classification Script**
+
+
+
 This repository contains a script that implements multiple classification algorithms, including:
 ✅ Random Forest Classifier
 ✅ Cross-Validation

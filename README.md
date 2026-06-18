@@ -1,4 +1,4 @@
-**The Featured Project: Classification Script**
+ **A Classification problem**
 
 
 

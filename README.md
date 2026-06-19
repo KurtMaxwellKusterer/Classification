@@ -9,7 +9,7 @@ This repository contains two phases of a machine learning project centred on pre
 The first phase uses the UCI Wine Quality dataset to explore and compare multiple classification algorithms. The goal is to understand which features drive wine quality and which model performs best before building a real application.
 
 ### Dataset
-- **Red wine:** 1,599 samples | **White wine:** 4,898 samples
+- **White wine:** 4,898 samples
 - 11 physicochemical features per wine (alcohol, acidity, sulphates, pH etc.)
 - Target variable: quality score (0–10) converted to a binary label — **Good (1)** if score ≥ 7, otherwise **Bad (0)**
 
